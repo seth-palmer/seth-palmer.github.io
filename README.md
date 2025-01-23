@@ -1,2 +1,5 @@
-# seth-palmer.github.io
-My portfolio website
+# My portfolio website
+
+I do:
+- coding
+
