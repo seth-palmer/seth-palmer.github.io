@@ -10,6 +10,7 @@ I also enjoy programming and have worked on projects ranging from android apps t
 
 ## Languages I've coded in
 
+Coding Languages
 <ul>
 
 <img src="assets/icons/java-plain-wordmark.svg" width=50 height=50>
@@ -23,7 +24,7 @@ I also enjoy programming and have worked on projects ranging from android apps t
 <img src="assets/icons/godot-original-wordmark.svg" width=50 height=50>
 
 </ul>
-#### Scripting Languages
+Scripting Languages
 <ul>
 <img src="assets/icons/bash-original.svg" width=50 height=50>
 <img src="assets/icons/perl-original.svg" width=50 height=50>
@@ -33,8 +34,9 @@ I also enjoy programming and have worked on projects ranging from android apps t
 ## Projects I've worked on
 
 ### [Bubble Brawl](https://ltngkarbn.itch.io/bubble-brawl)
-I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game.
-![](assets/test-image.png)
+I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game. <br>
+<img src="assets/test-image.png">
+
 
 
 
