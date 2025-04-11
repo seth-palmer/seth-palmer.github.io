@@ -9,10 +9,8 @@ I also enjoy programming and have worked on projects ranging from android apps t
 <br>
 
 ## Languages I've coded in
-- Java, C#, C, Flutter, Swift, Python, Xamarin/Maui, GD Script
-- Scripting: Bash, Perl
 
-<ul class="icon-list">
+<ul>
 
 <img src="assets/icons/java-plain-wordmark.svg" width=50 height=50>
 <img src="assets/icons/c-original.svg" width=50 height=50>
@@ -23,14 +21,23 @@ I also enjoy programming and have worked on projects ranging from android apps t
 <img src="assets/icons/python-original.svg" width=50 height=50>
 <img src="assets/icons/xamarin-original.svg" width=50 height=50>
 <img src="assets/icons/godot-original-wordmark.svg" width=50 height=50>
+
+</ul>
+#### Scripting Languages
+<ul>
 <img src="assets/icons/bash-original.svg" width=50 height=50>
 <img src="assets/icons/perl-original.svg" width=50 height=50>
 </ul>
-
 <br>
 
 ## Projects I've worked on
-- I was part of a game jam in 2025 my team and I made a game in 48 hours! [Bubble Brawl - Local Multiplayer](https://ltngkarbn.itch.io/bubble-brawl)
+
+### [Bubble Brawl](https://ltngkarbn.itch.io/bubble-brawl)
+I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game.
+![](assets/test-image.png)
+
+
+
 - Card Addicts
 - Music Addicts
 
