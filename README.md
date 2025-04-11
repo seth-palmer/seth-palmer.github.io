@@ -4,18 +4,30 @@ I'm Seth, I like working with computer hardware and coding software. I often rep
 
 I also enjoy programming and have worked on projects ranging from android apps to Websites. I enjoy mixing my other hobby of music with programing and creating music related apps.
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Languages I've coded in
 - Java, C#, C, Flutter, Swift, Python, Xamarin/Maui, GD Script
 - Scripting: Bash, Perl
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Projects I've worked on
 - I was part of a game jam in 2025 my team and I made a game in 48 hours! [Bubble Brawl - Local Multiplayer](https://ltngkarbn.itch.io/bubble-brawl)
 - Card Addicts
 - Music Addicts
 
----
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Skills and Experience
 
 
