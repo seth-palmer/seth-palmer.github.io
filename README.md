@@ -26,6 +26,13 @@ I also enjoy programming and have worked on projects ranging from android apps t
 
 ## Contact Me
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 
 ## Links
