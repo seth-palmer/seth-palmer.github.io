@@ -10,7 +10,7 @@ I also enjoy programming and have worked on projects ranging from android apps t
 
 ## Languages I've coded in
 
-Coding Languages
+Coding
 <ul>
 
 <img src="assets/icons/java-plain-wordmark.svg" width=50 height=50>
@@ -24,7 +24,7 @@ Coding Languages
 <img src="assets/icons/godot-original-wordmark.svg" width=50 height=50>
 
 </ul>
-Scripting Languages
+Scripting
 <ul>
 <img src="assets/icons/bash-original.svg" width=50 height=50>
 <img src="assets/icons/perl-original.svg" width=50 height=50>
@@ -34,11 +34,18 @@ Scripting Languages
 ## Projects I've worked on
 
 ### [Bubble Brawl](https://ltngkarbn.itch.io/bubble-brawl)
-I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game. 
-<img src="assets/test-image.png" border="3px solid black">
+I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! 
+
+I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game.  The main challenge I had to overcome was learning a new language (GD Script). I really enjoyed working out how to make music dynamic with the game and I plan to work on more games in the future.
+<img src="assets/test-image.png">
+
+### Hippotherapy App
+As part of my schooling we worked with a real industry contact on a seven month project. I was part of a group with six other developers. I worked on a range of features from a graphical data analysis to securing the app with logins. Our app also had an extensive suite of tests to ensure the functionality is maintained between releases.
+
+I learned a lot about working with a team of developers and proper ways to test functionality. One thing I would change would be spending more time researching the technologies to use for the app, as some of what we picked later ended up making some features impossible.
 
 
-
+![](assets/hippotherapy-app.png)
 
 - Card Addicts
 - Music Addicts
@@ -54,14 +61,10 @@ I was part of a game jam in 2025 my team and I made a local multiplayer game in 
 
 
 ## Contact Me
-
-
-
-## Links
-- [Github](https://github.com/seth-palmer)
 - [LinkedIn](https://www.linkedin.com/in/seth-palmer-6916b929a/)
 - 
 
 
-
-- [Icons from here](https://devicon.dev/)
+## Links
+- [My Github](https://github.com/seth-palmer)
+- [Icons from devicon.dev](https://devicon.dev/)
