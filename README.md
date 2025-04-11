@@ -1,40 +1,5 @@
 
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-
-        .portfolio {
-            max-width: 800px;
-            margin: auto;
-            text-align: center;
-        }
-
-        .icon-list {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            list-style: none;
-            padding: 0;
-        }
-
-        .icon-list li {
-            margin: 10px;
-        }
-
-        .icon-list img {
-            width: 50px; /* Adjust size as needed */
-            height: auto;
-            transition: transform 0.3s;
-        }
-
-        .icon-list img:hover {
-            transform: scale(1.1); /* Slightly enlarge on hover */
-        }
-    </style>
+ 
 
 ## About Me
 I'm Seth, I like working with computer hardware and coding software. I often repurpose older computers that might otherwise go unused. I am fascinated by digital security and like to read up on current security related news.
