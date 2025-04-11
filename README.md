@@ -31,7 +31,7 @@ Scripting
 </ul>
 <br>
 
-## Projects I've worked on
+## Skills and Experience
 
 ### [Bubble Brawl](https://ltngkarbn.itch.io/bubble-brawl)
 I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! 
@@ -50,13 +50,7 @@ I learned a lot about working with a team of developers and proper ways to test 
 - Card Addicts
 - Music Addicts
 
-<br>
 
-## Skills and Experience
-
-
-## Artifacts (put under skills?)
-![](assets/test-image.png)
 
 
 
