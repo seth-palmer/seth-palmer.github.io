@@ -24,6 +24,7 @@ I also enjoy programming and have worked on projects ranging from android apps t
 
 ## Artifacts (put under skills?)
 
+![[images/test-image.png]]
 
 ## Contact Me
 
