@@ -34,8 +34,8 @@ Scripting Languages
 ## Projects I've worked on
 
 ### [Bubble Brawl](https://ltngkarbn.itch.io/bubble-brawl)
-I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game. <br>
-<img src="assets/test-image.png">
+I was part of a game jam in 2025 my team and I made a local multiplayer game in 48 hours! I worked on the menu interface for the game and collaborated closely with our composer to integrate our music into the game. 
+<img src="assets/test-image.png" border="3px solid black">
 
 
 
