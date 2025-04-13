@@ -8,7 +8,7 @@ I also enjoy programming and have worked on projects ranging from android apps t
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/seth-palmer-6916b929a/)
-- 
+
 
 
 ## Links

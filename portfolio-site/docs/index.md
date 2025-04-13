@@ -1,10 +1,24 @@
 
  
 
-## About Me
-I'm Seth, I like working with computer hardware and coding software. I often re-purpose older computers that might otherwise go unused. I am fascinated by digital security and like to read up on current security related news.
 
-I also enjoy programming and have worked on projects ranging from android apps to Websites. I enjoy mixing my other hobby of music with programming and creating music related apps.
+
+
+## About Me
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding-right: 20px;">
+        <h2>Hi! 👋</h2>
+        <p>
+        I'm Seth, I like working with computer hardware and coding software. I often re-purpose older computers that might otherwise go unused. I am fascinated by digital security and like to read up on current security related news.
+        </p>
+        <p>
+        I also enjoy programming and have worked on projects ranging from android apps to Websites. I enjoy mixing my other hobby of music with programming and creating music related apps.
+        </p>
+    </div>
+    <div style="flex: 1;">
+        <img src="assets/profile.jpg" alt="Image description" style="max-width: 100%; border-radius: 10px;">
+    </div>
+</div>
 
 <br>
 
