@@ -56,7 +56,6 @@ I learned a lot about working with a team of developers and proper ways to test 
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/seth-palmer-6916b929a/)
-- 
 
 
 ## Links
