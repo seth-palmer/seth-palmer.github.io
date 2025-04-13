@@ -45,7 +45,7 @@ As part of my schooling we worked with a real industry contact on a seven month 
 I learned a lot about working with a team of developers and proper ways to test functionality. One thing I would change would be spending more time researching the technologies to use for the app, as some of what we picked later ended up making some features impossible.
 
 
-![](assets/hippotherapy-app.png)
+![](portfolio-site/docs/assets/hippotherapy-app.png)
 
 - Card Addicts
 - Music Addicts
