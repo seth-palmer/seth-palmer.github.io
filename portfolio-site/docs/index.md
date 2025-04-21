@@ -45,7 +45,7 @@ Bash <img src="assets/icons/bash-original.svg" width=50 height=50>
 Perl <img src="assets/icons/perl-original.svg" width=50 height=50>
 </ul>
 <br>
-Skills
+Development Tools & Platforms
 <ul>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width=75 height=75/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" width=75 height=75/> 
@@ -74,14 +74,14 @@ I learned a lot about working with a team of developers and proper ways to test 
 ![](assets/hippotherapy-app.png)
 
 ### Web Projects 
+
+For a a web development class we coded websites that used both established and more recent web technologies. The projects were done in pairs and allowed us to practice working closely with a single team member. I coded two major  projects with [Douglas Riese](https://ca.linkedin.com/in/douglas-riese-51959413b), a project where all the processing is done on the web server named "Card Addicts", and a more modern component based programming model.
+
 #### Card Addicts
 
-For a a web development class we coded websites using the different technologies throughout the history of web development. This allowed us to develop skills for both established companies and recent web development trends. Projects were also done in pairs and allowed us to practice working closely with a single team member.
-
 <img src="assets/card-addicts-war.png">
-Both projects coded with [Douglas Riese](https://ca.linkedin.com/in/douglas-riese-51959413b)
 
-
+<img src="assets/card-addicts-recent-activity.png">
 
 #### Music Addicts
 
@@ -96,8 +96,7 @@ Both projects coded with [Douglas Riese](https://ca.linkedin.com/in/douglas-ries
 
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/seth-palmer-6916b929a/)
-
+  <img src="assets/icons/linkedin.svg" height="50" width="50">  <a href="https://www.linkedin.com/in/seth-palmer-6916b929a/" target="_blank">LinkedIn</a>
 
 ## Links
 - [My Github](https://github.com/seth-palmer)
