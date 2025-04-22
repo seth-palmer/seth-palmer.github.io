@@ -118,4 +118,6 @@ My interest in documentation for our projects lead me to [mkdocs](https://www.mk
 ## Links
 - [My Github](https://github.com/seth-palmer)
 - <a href="https://www.linkedin.com/in/seth-palmer-6916b929a/" target="_blank">LinkedIn</a>
+- [Bubble Brawl - Game](https://ltngkarbn.itch.io/bubble-brawl)
 - [Icon used from devicon.dev](https://devicon.dev/)
+- [Mkdocs](https://www.mkdocs.org/)
