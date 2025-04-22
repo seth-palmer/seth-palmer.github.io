@@ -1,3 +1,6 @@
 site_name: Portfolio - Seth Palmer
 remote_branch: gh-pages
 site_author: Seth Palmer
+copyright: Copyright &copy; 2025 Seth Palmer, updated April 2025
+extra:
+  generator: false
